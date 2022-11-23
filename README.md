@@ -17,8 +17,8 @@
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangHeewon04&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=KangHeewon04&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangHeewon04&count_private=true"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=KangHeewon04&count_private=true">
 </div>
 
 <p align="center">
